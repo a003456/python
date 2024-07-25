@@ -46,3 +46,274 @@
     "success": true,
     "timestamp": null
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "success": true,
+    "timestamp": 0,
+    "error": null,
+    "data": {
+        "history": [
+            {
+                "cta": [],
+                "instrument": {
+                    "e": "NSE_FO",
+                    "lotSize": 1,
+                    "t": 48730,
+                    "s": "BANKNIFTY2472451500PE"
+                },
+                "message": "Your order can't be placed at the moment due to an internal technical issue. Kindly try placing your order after some time.",
+                "orderNumber": {
+                    "exchange": "",
+                    "oms": "240724000914428",
+                    "orderRefId": "UDAPI-I-xhMHtbNBynk2EkYmS0pLjeHc",
+                    "parent": null,
+                    "strategyCode": "JAPI"
+                },
+                "orderType": "SL",
+                "originalMessage": "RMS:Field Not Found 63002",
+                "price": {
+                    "avg": 0.0,
+                    "limit": 181.5,
+                    "trigger": 181.55,
+                    "trailingTicks": 0,
+                    "initialSL": 0.0,
+                    "reference": 0.0
+                },
+                "product": "I",
+                "quantity": {
+                    "cancelled": 0,
+                    "disclosed": 0,
+                    "pending": 0,
+                    "total": 15,
+                    "traded": 0
+                },
+                "side": "S",
+                "status": "R",
+                "time": 1721879102019252,
+                "validity": "D",
+                "instrument_key": null,
+                "isAMO": false
+            },
+            {
+                "cta": [],
+                "instrument": {
+                    "e": "NSE_FO",
+                    "lotSize": 1,
+                    "t": 48713,
+                    "s": "BANKNIFTY2472451100CE"
+                },
+                "message": "Your order can't be placed at the moment due to an internal technical issue. Kindly try placing your order after some time.",
+                "orderNumber": {
+                    "exchange": "",
+                    "oms": "240724000914429",
+                    "orderRefId": "UDAPI-I-noyIVwfyIQaIpIrLubrF3lll",
+                    "parent": null,
+                    "strategyCode": "JAPI"
+                },
+                "orderType": "SL",
+                "originalMessage": "RMS:Field Not Found 63002",
+                "price": {
+                    "avg": 0.0,
+                    "limit": 216.6,
+                    "trigger": 216.65,
+                    "trailingTicks": 0,
+                    "initialSL": 0.0,
+                    "reference": 0.0
+                },
+                "product": "I",
+                "quantity": {
+                    "cancelled": 0,
+                    "disclosed": 0,
+                    "pending": 0,
+                    "total": 15,
+                    "traded": 0
+                },
+                "side": "S",
+                "status": "R",
+                "time": 1721879102019272,
+                "validity": "D",
+                "instrument_key": null,
+                "isAMO": false
+            },
+            {
+                "cta": [],
+                "instrument": {
+                    "e": "NSE_FO",
+                    "lotSize": 1,
+                    "t": 48730,
+                    "s": "BANKNIFTY2472451500PE"
+                },
+                "message": "Your order can't be placed at the moment due to an internal technical issue. Kindly try placing your order after some time.",
+                "orderNumber": {
+                    "exchange": "",
+                    "oms": "240724000914644",
+                    "orderRefId": "UDAPI-I-wNB61HtlZLIbK0pNiaJgFJYb",
+                    "parent": null,
+                    "strategyCode": "JAPI"
+                },
+                "orderType": "SL",
+                "originalMessage": "RMS:Field Not Found 63002",
+                "price": {
+                    "avg": 0.0,
+                    "limit": 181.5,
+                    "trigger": 181.55,
+                    "trailingTicks": 0,
+                    "initialSL": 0.0,
+                    "reference": 0.0
+                },
+                "product": "I",
+                "quantity": {
+                    "cancelled": 0,
+                    "disclosed": 0,
+                    "pending": 0,
+                    "total": 15,
+                    "traded": 0
+                },
+                "side": "S",
+                "status": "R",
+                "time": 1721879102019574,
+                "validity": "D",
+                "instrument_key": null,
+                "isAMO": false
+            },
+            {
+                "cta": [],
+                "instrument": {
+                    "e": "NSE_FO",
+                    "lotSize": 1,
+                    "t": 65473,
+                    "s": "NIFTY24JUL24600CE"
+                },
+                "message": "",
+                "orderNumber": {
+                    "exchange": "1000000136997495",
+                    "oms": "240725000436008",
+                    "orderRefId": "15656382837369",
+                    "parent": null,
+                    "strategyCode": "JAPI"
+                },
+                "orderType": "M",
+                "originalMessage": "",
+                "price": {
+                    "avg": 1.85,
+                    "limit": 0.0,
+                    "trigger": 0.0,
+                    "trailingTicks": 0,
+                    "initialSL": 0.0,
+                    "reference": 0.0
+                },
+                "product": "D",
+                "quantity": {
+                    "cancelled": 0,
+                    "disclosed": 0,
+                    "pending": 0,
+                    "total": 25,
+                    "traded": 25
+                },
+                "side": "B",
+                "status": "COM",
+                "time": 1721890309553690,
+                "validity": "D",
+                "instrument_key": "NSE_FO|65473",
+                "isAMO": false
+            },
+            {
+                "cta": [
+                    2,
+                    6
+                ],
+                "instrument": {
+                    "e": "NSE_FO",
+                    "lotSize": 1,
+                    "t": 65315,
+                    "s": "NIFTY24JUL24100CE"
+                },
+                "message": "You need to add Rs. 24230.90 in your account to place this trade.",
+                "orderNumber": {
+                    "exchange": "",
+                    "oms": "240725000436010",
+                    "orderRefId": "15670538952918",
+                    "parent": null,
+                    "strategyCode": "JAPI"
+                },
+                "orderType": "M",
+                "originalMessage": "RMS:Margin Exceeds,Required:24492.88, Available:261.98 for entity account-349630 across exchange across segment across product ",
+                "price": {
+                    "avg": 0.0,
+                    "limit": 0.0,
+                    "trigger": 0.0,
+                    "trailingTicks": 0,
+                    "initialSL": 0.0,
+                    "reference": 0.0
+                },
+                "product": "D",
+                "quantity": {
+                    "cancelled": 0,
+                    "disclosed": 0,
+                    "pending": 0,
+                    "total": 25,
+                    "traded": 0
+                },
+                "side": "S",
+                "status": "R",
+                "time": 1721890309725252,
+                "validity": "D",
+                "instrument_key": "NSE_FO|65315",
+                "isAMO": false
+            },
+            {
+                "cta": [],
+                "instrument": {
+                    "e": "NSE_FO",
+                    "lotSize": 1,
+                    "t": 65473,
+                    "s": "NIFTY24JUL24600CE"
+                },
+                "message": "",
+                "orderNumber": {
+                    "exchange": "1000000140988669",
+                    "oms": "240725000447053",
+                    "orderRefId": "16165181501785",
+                    "parent": null,
+                    "strategyCode": "JAPI"
+                },
+                "orderType": "L",
+                "originalMessage": "",
+                "price": {
+                    "avg": 0.0,
+                    "limit": 1.6,
+                    "trigger": 0.0,
+                    "trailingTicks": 0,
+                    "initialSL": 0.0,
+                    "reference": 0.0
+                },
+                "product": "D",
+                "quantity": {
+                    "cancelled": 0,
+                    "disclosed": 0,
+                    "pending": 25,
+                    "total": 25,
+                    "traded": 0
+                },
+                "side": "S",
+                "status": "O",
+                "time": 1721890792262343,
+                "validity": "D",
+                "instrument_key": "NSE_FO|65473",
+                "isAMO": false
+            }
+        ]
+    }
+}
