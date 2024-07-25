@@ -1,0 +1,48 @@
+{
+    "data": {
+        "list": [
+            {
+                "fillInfo": {
+                    "cfBuy": {
+                        "amt": 0.0,
+                        "avgPrice": 0.0,
+                        "qty": 0
+                    },
+                    "cfSell": {
+                        "amt": 0.0,
+                        "avgPrice": 0.0,
+                        "qty": 0
+                    },
+                    "dayBuy": {
+                        "amt": 46.25,
+                        "avgPrice": 1.85,
+                        "qty": 25
+                    },
+                    "daySell": {
+                        "amt": 0.0,
+                        "avgPrice": 0.0,
+                        "qty": 0
+                    }
+                },
+                "instrument": {
+                    "e": "NSE_FO",
+                    "m": 1.0,
+                    "s": "NIFTY24JUL24600CE",
+                    "t": 65473
+                },
+                "netInfo": {
+                    "buyQty": 25,
+                    "buyValue": 46.25,
+                    "netAvgPrice": 1.85,
+                    "sellQty": 0,
+                    "sellValue": 0.0
+                },
+                "product": "D",
+                "instrument_key": "NSE_FO|65473"
+            }
+        ],
+        "listV3": []
+    },
+    "success": true,
+    "timestamp": null
+}
